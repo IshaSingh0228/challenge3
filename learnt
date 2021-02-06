@@ -3,4 +3,9 @@ push
 pull
 revert 
 restore
+some more:
+checkout
+branch 
+remote -v
+
 
